@@ -1,0 +1,12 @@
+{
+    "network_type": "small",
+    "seed": 42,
+    "simulation_time": 3600,
+    "average_waiting_time": 13.199464004324584,
+    "max_waiting_time": 29.607142857142858,
+    "min_waiting_time": 0.0,
+    "std_waiting_time": 7.52230946138095,
+    "average_queue_length": 18.87472222222222,
+    "max_queue_length": 23.0,
+    "total_steps": 3600
+}
